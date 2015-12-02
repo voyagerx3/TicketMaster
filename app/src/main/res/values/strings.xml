@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TicketMaster</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings de diálogo personalizado -->
+    <string name="tv_info">Necesitas tener creada una cuenta para iniciar la aplicación</string>
+    <string name="bt_signup">CREAR CUENTA</string>
+    <string name="et_search">Evento, Ciudad</string>
+    <string name="et_searchcategory">Categoría, Ciudad</string>
+    <string name="et_name">Nombre</string>
+    <string name="et_password">Constraseña</string>
+    <string name="cb_keepme_signedin">Seguir conectado</string>
+    <string name="tv_cantaccess_youraccount">¿No puedes acceder a tu cuenta?</string>
+    <string name="bt_signin">ENTRAR</string>
+</resources>
